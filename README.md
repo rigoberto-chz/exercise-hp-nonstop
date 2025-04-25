@@ -1,2 +1,2 @@
-# exercise-cobol
-Ejemplos de programas Cobol85
+# exercise-hp-nonstop
+Ejemplos de programas HP Nonstop
